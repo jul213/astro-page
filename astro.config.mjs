@@ -6,5 +6,5 @@ import tailwind from "@astrojs/tailwind";
 export default defineConfig({
   integrations: [tailwind()],
   site: 'https://jul213.github.io',
-  base: '/astro-page',
+  base: '/astro-pages',
 });
